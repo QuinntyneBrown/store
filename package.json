@@ -1,0 +1,22 @@
+{
+  "name": "store",
+  "version": "0.0.1",
+  "description": "Generic store for web applications",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinntyneBrown/store.git"
+  },
+  "author": "Quinntyne Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinntyneBrown/store/issues"
+  },
+  "homepage": "https://github.com/QuinntyneBrown/store#readme",
+  "dependencies": {
+    "rx": "^4.1.0"
+  }
+}
